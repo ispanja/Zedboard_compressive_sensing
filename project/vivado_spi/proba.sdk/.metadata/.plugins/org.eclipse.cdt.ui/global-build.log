@@ -1,0 +1,1082 @@
+01:55:11 **** Build of project a53_bsp ****
+make -k all 
+Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_4/src
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_4/src
+make -C ps7_cortexa9_0/libsrc/xilrsa_v1_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_8/src
+make -C ps7_cortexa9_0/libsrc/scugic_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_3/src
+make -C ps7_cortexa9_0/libsrc/sdps_v3_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/spips_v3_0/src
+make -C ps7_cortexa9_0/libsrc/spips_v3_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/xilffs_v3_7/src
+make -C ps7_cortexa9_0/libsrc/xilffs_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_5/src
+make -C ps7_cortexa9_0/libsrc/standalone_v6_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/iicps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/iicps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_6/src
+make -C ps7_cortexa9_0/libsrc/emacps_v3_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/tmrctr_v4_4/src
+make -C ps7_cortexa9_0/libsrc/tmrctr_v4_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/uartps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling dmaps
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling ddrps
+Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_4/src
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling qspips
+Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_4/src
+make -C ps7_cortexa9_0/libsrc/xilrsa_v1_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling gpiops
+Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_8/src
+make -C ps7_cortexa9_0/libsrc/scugic_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling scugic
+Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_3/src
+make -C ps7_cortexa9_0/libsrc/sdps_v3_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling sdps
+Running Make libs in ps7_cortexa9_0/libsrc/spips_v3_0/src
+make -C ps7_cortexa9_0/libsrc/spips_v3_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling spips
+Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v3_7/src
+make -C ps7_cortexa9_0/libsrc/xilffs_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling XilFFs Library
+ff.c: In function 'find_volume':
+ff.c:2610:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+    && (LD_DWORD(fs->win+FSI_LeadSig) == 0x41615252U)
+    ^~
+diskio.c:135:11: warning: 'ExtCsd' defined but not used [-Wunused-variable]
+ static u8 ExtCsd[512] __attribute__ ((aligned(32)));
+           ^~~~~~
+Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_5/src
+make -C ps7_cortexa9_0/libsrc/standalone_v6_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling standalone
+Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling cpu_cortexa9
+Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling xadcps
+Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling ttcps
+Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling devcfg
+Running Make libs in ps7_cortexa9_0/libsrc/iicps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/iicps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling iicps
+Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling scuwdt
+Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_6/src
+make -C ps7_cortexa9_0/libsrc/emacps_v3_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling emacps
+Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling usbps
+Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling coresightps_dcc
+Running Make libs in ps7_cortexa9_0/libsrc/tmrctr_v4_4/src
+make -C ps7_cortexa9_0/libsrc/tmrctr_v4_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling tmrctr
+Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/uartps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling uartps
+Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling scutimer
+Finished building libraries
+01:55:29 **** Build of configuration Debug for project fsbl_a53 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/fsbl_handoff.S
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/fsbl_handoff.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/fsbl_handoff.d" -MT"src/fsbl_handoff.o" -o "src/fsbl_handoff.o" "../src/fsbl_handoff.S"
+Finished building: ../src/fsbl_handoff.S
+ 
+Building file: ../src/fsbl_hooks.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/fsbl_hooks.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/fsbl_hooks.d" -MT"src/fsbl_hooks.o" -o "src/fsbl_hooks.o" "../src/fsbl_hooks.c"
+Finished building: ../src/fsbl_hooks.c
+ 
+Building file: ../src/image_mover.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/image_mover.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/image_mover.d" -MT"src/image_mover.o" -o "src/image_mover.o" "../src/image_mover.c"
+Finished building: ../src/image_mover.c
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building file: ../src/md5.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/md5.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/md5.d" -MT"src/md5.o" -o "src/md5.o" "../src/md5.c"
+Finished building: ../src/md5.c
+ 
+Building file: ../src/nand.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/nand.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/nand.d" -MT"src/nand.o" -o "src/nand.o" "../src/nand.c"
+Finished building: ../src/nand.c
+ 
+Building file: ../src/nor.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/nor.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/nor.d" -MT"src/nor.o" -o "src/nor.o" "../src/nor.c"
+Finished building: ../src/nor.c
+ 
+Building file: ../src/pcap.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/pcap.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/pcap.d" -MT"src/pcap.o" -o "src/pcap.o" "../src/pcap.c"
+Finished building: ../src/pcap.c
+ 
+Building file: /home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0/ps7_init.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/ps7_init.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/ps7_init.d" -MT"src/ps7_init.o" -o "src/ps7_init.o" "/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0/ps7_init.c"
+Finished building: /home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0/ps7_init.c
+ 
+Building file: ../src/qspi.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/qspi.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/qspi.d" -MT"src/qspi.o" -o "src/qspi.o" "../src/qspi.c"
+Finished building: ../src/qspi.c
+ 
+Building file: ../src/rsa.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/rsa.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/rsa.d" -MT"src/rsa.o" -o "src/rsa.o" "../src/rsa.c"
+Finished building: ../src/rsa.c
+ 
+Building file: ../src/sd.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -I"/home/ivan/ppius/proba/proba.sdk/design_1_wrapper_hw_platform_0" -c -fmessage-length=0 -MT"src/sd.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../a53_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/sd.d" -MT"src/sd.o" -o "src/sd.o" "../src/sd.c"
+Finished building: ../src/sd.c
+ 
+Building target: fsbl_a53.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../a53_bsp/ps7_cortexa9_0/lib -o "fsbl_a53.elf"  ./src/fsbl_handoff.o ./src/fsbl_hooks.o ./src/image_mover.o ./src/main.o ./src/md5.o ./src/nand.o ./src/nor.o ./src/pcap.o ./src/ps7_init.o ./src/qspi.o ./src/rsa.o ./src/sd.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group
+Finished building target: fsbl_a53.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size fsbl_a53.elf  |tee "fsbl_a53.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  79052	  11724	  74360	 165136	  28510	fsbl_a53.elf
+Finished building: fsbl_a53.elf.size
+ 
+09:46:35 **** Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+Finished building: ../src/main.cc
+ 
+Building target: compres.elf
+Invoking: ARM v7 Linux g++ linker
+arm-linux-gnueabihf-g++  -o "compres.elf"  ./src/main.o   
+Finished building target: compres.elf
+ 
+Invoking: ARM v7 Linux Print Size
+arm-linux-gnueabihf-size compres.elf  |tee "compres.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   1020	    304	      4	   1328	    530	compres.elf
+Finished building: compres.elf.size
+ 
+09:53:24 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+09:59:59 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:00:18 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:01:49 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:09:15 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:09:35 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+Invoking: ARM v7 Linux g++ compiler
+ #include "main.h"
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:16:59 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:17:30 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:18:28 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:18:37 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:19:34 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:27:49 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:27:59 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:30:51 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:27: fatal error: Eigen/StdVector: No such file or directory
+ #include <Eigen/StdVector>
+                           ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:32:27 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:27: fatal error: Eigen/StdVector: No such file or directory
+ #include "Eigen/StdVector"
+                           ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:33:18 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:27: fatal error: Eigen/StdVector: No such file or directory
+ #include <Eigen/StdVector>
+                           ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:33:51 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:26: fatal error: Eigen/Geometry: No such file or directory
+ #include <Eigen/Geometry>
+                          ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:34:27 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:33: fatal error: unsupported/Eigen/BVH: No such file or directory
+ #include <unsupported/Eigen/BVH>
+                                 ^
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:41:00 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:11:0:
+../src/unsupported/test/../BVH:13:22: fatal error: Eigen/Core: No such file or directory
+ #include <Eigen/Core>
+                      ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:42:01 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:11:0:
+../src/unsupported/test/../BVH:13:22: fatal error: Eigen/Core: No such file or directory
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+ #include <Eigen/Core>
+                      ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:42:31 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:11:0:
+../src/unsupported/test/../BVH:13:22: fatal error: Eigen/Core: No such file or directory
+ #include <Eigen/Core>
+                      ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+10:43:34 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:18: fatal error: ../BVH: No such file or directory
+ #include "../BVH"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:43:54 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:18: fatal error: ../BVH: No such file or directory
+ #include "../BVH"
+                  ^
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+10:47:50 **** Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+Finished building: ../src/main.cc
+ 
+Building target: compres.elf
+Invoking: ARM v7 Linux g++ linker
+arm-linux-gnueabihf-g++ -L"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/lib" -o "compres.elf"  ./src/main.o   -lopencv_core
+Finished building target: compres.elf
+ 
+Invoking: ARM v7 Linux Print Size
+arm-linux-gnueabihf-size compres.elf  |tee "compres.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31790	    480	    148	  32418	   7ea2	compres.elf
+Finished building: compres.elf.size
+ 
+10:49:48 **** Auto Build of configuration Debug for project compres ****
+make all 
+make: Nothing to be done for 'all'.
+10:50:06 **** Auto Build of configuration Debug for project compres ****
+make all 
+make: Nothing to be done for 'all'.
+10:50:22 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+../src/main.cc:1:22: fatal error: test_img.h: No such file or directory
+ #include "test_img.h"
+                      ^
+compilation terminated.
+make: *** [src/main.o] Error 1
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+10:51:09 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+../src/main.cc:3:32: fatal error: measurement_matrix.h: No such file or directory
+ #include "measurement_matrix.h"
+                                ^
+compilation terminated.
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+make: *** [src/main.o] Error 1
+10:51:28 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+../src/main.cc:3:32: fatal error: measurement_matrix.h: No such file or directory
+ #include "measurement_matrix.h"
+                                ^
+compilation terminated.
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+make: *** [src/main.o] Error 1
+10:52:02 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+../src/main.cc:5:23: fatal error: Eigen/Dense: No such file or directory
+ #include <Eigen/Dense>
+                       ^
+compilation terminated.
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+make: *** [src/main.o] Error 1
+10:52:15 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+../src/main.cc:5:23: fatal error: Eigen/Dense: No such file or directory
+ #include <Eigen/Dense>
+                       ^
+compilation terminated.
+make: *** [src/main.o] Error 1
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+10:58:12 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+../src/main.cc:5:23: fatal error: Eigen/Dense: No such file or directory
+ #include <Eigen/Dense>
+                       ^
+compilation terminated.
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+make: *** [src/main.o] Error 1
+10:59:07 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/main.cc
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/main.o" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+../src/main.cc:5:23: fatal error: Eigen/Dense: No such file or directory
+ #include <Eigen/Dense>
+                       ^
+compilation terminated.
+make: *** [src/main.o] Error 1
+10:59:39 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+11:00:12 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:00:52 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:01:57 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:02:02 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:10:18: fatal error: main.h: No such file or directory
+ #include "main.h"
+                  ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:04:31 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+../src/unsupported/test/BVH.cpp:11:27: fatal error: Eigen/StdVector: No such file or directory
+ #include <Eigen/StdVector>
+                           ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:04:35 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:116:31: fatal error: split_test_helper.h: No such file or directory
+ #include "split_test_helper.h"
+                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:31:04 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:133:2: error: #error EIGEN_TEST_FUNC must be defined
+ #error EIGEN_TEST_FUNC must be defined
+  ^~~~~
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:31:45 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:116:31: fatal error: split_test_helper.h: No such file or directory
+ #include "split_test_helper.h"
+                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+11:32:17 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:133:2: error: #error EIGEN_TEST_FUNC must be defined
+ #error EIGEN_TEST_FUNC must be defined
+  ^~~~~
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+11:41:25 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:43:09 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+11:43:22 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+11:45:34 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:46:33 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:47:42 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:47:57 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:48:32 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+11:49:08 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+13:39:17 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+13:51:25 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+13:51:59 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+13:53:53 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+13:54:39 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+13:55:00 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include "Eigen/QR" // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+13:56:00 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+13:56:22 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+13:59:14 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+13:59:39 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+13:59:44 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+compilation terminated.
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+make: *** [src/unsupported/test/BVH.o] Error 1
+14:00:15 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/test/adjoint.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/test/adjoint.o" -MMD -MP -MF"src/test/adjoint.d" -MT"src/test/adjoint.o" -o "src/test/adjoint.o" "../src/test/adjoint.cpp"
+In file included from ../src/test/adjoint.cpp:12:0:
+../src/test/main.h:116:31: fatal error: split_test_helper.h: No such file or directory
+ #include "split_test_helper.h"
+                               ^
+compilation terminated.
+src/test/subdir.mk:420: recipe for target 'src/test/adjoint.o' failed
+make: *** [src/test/adjoint.o] Error 1
+14:00:34 **** Clean-only build of configuration Debug for project compres ****
+make clean 
+rm -rf  ./src/bench/tensors/benchmark_main.d ./src/bench/tensors/contraction_benchmarks_cpu.d ./src/bench/tensors/tensor_benchmarks_cpu.d ./src/bench/tensors/tensor_benchmarks_sycl.d  ./src/main.d  ./src/test/adjoint.o ./src/test/array.o ./src/test/array_for_matrix.o ./src/test/array_of_string.o ./src/test/array_replicate.o ./src/test/array_reverse.o ./src/test/bandmatrix.o ./src/test/basicstuff.o ./src/test/bdcsvd.o ./src/test/bicgstab.o ./src/test/block.o ./src/test/boostmultiprec.o ./src/test/bug1213.o ./src/test/bug1213_main.o ./src/test/cholesky.o ./src/test/cholmod_support.o ./src/test/commainitializer.o ./src/test/conjugate_gradient.o ./src/test/conservative_resize.o ./src/test/constructor.o ./src/test/corners.o ./src/test/ctorleak.o ./src/test/denseLM.o ./src/test/dense_storage.o ./src/test/determinant.o ./src/test/diagonal.o ./src/test/diagonalmatrices.o ./src/test/dontalign.o ./src/test/dynalloc.o ./src/test/eigen2support.o ./src/test/eigensolver_complex.o ./src/test/eigensolver_generalized_real.o ./src/test/eigensolver_generic.o ./src/test/eigensolver_selfadjoint.o ./src/test/evaluators.o ./src/test/exceptions.o ./src/test/fastmath.o ./src/test/first_aligned.o ./src/test/geo_alignedbox.o ./src/test/geo_eulerangles.o ./src/test/geo_homogeneous.o ./src/test/geo_hyperplane.o ./src/test/geo_orthomethods.o ./src/test/geo_parametrizedline.o ./src/test/geo_quaternion.o ./src/test/geo_transformations.o ./src/test/half_float.o ./src/test/hessenberg.o ./src/test/householder.o ./src/test/incomplete_cholesky.o ./src/test/inplace_decomposition.o ./src/test/integer_types.o ./src/test/inverse.o ./src/test/is_same_dense.o ./src/test/jacobi.o ./src/test/jacobisvd.o ./src/test/linearstructure.o ./src/test/lscg.o ./src/test/lu.o ./src/test/mapped_matrix.o ./src/test/mapstaticmethods.o ./src/test/mapstride.o ./src/test/meta.o ./src/test/metis_support.o ./src/test/miscmatrices.o ./src/test/mixingtypes.o ./src/test/mpl2only.o ./src/test/nesting_ops.o ./src/test/nomalloc.o ./src/test/nullary.o ./src/test/numext.o ./src/test/packetmath.o ./src/test/pardiso_support.o ./src/test/pastix_support.o ./src/test/permutationmatrices.o ./src/test/prec_inverse_4x4.o ./src/test/product_extra.o ./src/test/product_large.o ./src/test/product_mmtr.o ./src/test/product_notemporary.o ./src/test/product_selfadjoint.o ./src/test/product_small.o ./src/test/product_symm.o ./src/test/product_syrk.o ./src/test/product_trmm.o ./src/test/product_trmv.o ./src/test/product_trsolve.o ./src/test/qr.o ./src/test/qr_colpivoting.o ./src/test/qr_fullpivoting.o ./src/test/qtvector.o ./src/test/rand.o ./src/test/real_qz.o ./src/test/redux.o ./src/test/ref.o ./src/test/resize.o ./src/test/rvalue_types.o ./src/test/schur_complex.o ./src/test/schur_real.o ./src/test/selfadjoint.o ./src/test/simplicial_cholesky.o ./src/test/sizeof.o ./src/test/sizeoverflow.o ./src/test/smallvectors.o ./src/test/sparseLM.o ./src/test/sparse_basic.o ./src/test/sparse_block.o ./src/test/sparse_permutations.o ./src/test/sparse_product.o ./src/test/sparse_ref.o ./src/test/sparse_solvers.o ./src/test/sparse_vector.o ./src/test/sparselu.o ./src/test/sparseqr.o ./src/test/special_numbers.o ./src/test/spqr_support.o ./src/test/stable_norm.o ./src/test/stddeque.o ./src/test/stddeque_overload.o ./src/test/stdlist.o ./src/test/stdlist_overload.o ./src/test/stdvector.o ./src/test/stdvector_overload.o ./src/test/superlu_support.o ./src/test/swap.o ./src/test/triangular.o ./src/test/umeyama.o ./src/test/umfpack_support.o ./src/test/unalignedassert.o ./src/test/unalignedcount.o ./src/test/upperbidiagonalization.o ./src/test/vectorization_logic.o ./src/test/vectorwiseop.o ./src/test/visitor.o ./src/test/zerosized.o  ./src/scripts/eigen_gen_credits.o  ./src/lapack/cholesky.o ./src/lapack/complex_double.o ./src/lapack/complex_single.o ./src/lapack/double.o ./src/lapack/eigenvalues.o ./src/lapack/lu.o ./src/lapack/single.o ./src/lapack/svd.o  ./src/failtest/bdcsvd_int.o ./src/failtest/block_nonconst_ctor_on_const_xpr_0.o ./src/failtest/block_nonconst_ctor_on_const_xpr_1.o ./src/failtest/block_nonconst_ctor_on_const_xpr_2.o ./src/failtest/block_on_const_type_actually_const_0.o ./src/failtest/block_on_const_type_actually_const_1.o ./src/failtest/colpivqr_int.o ./src/failtest/const_qualified_block_method_retval_0.o ./src/failtest/const_qualified_block_method_retval_1.o ./src/failtest/const_qualified_diagonal_method_retval.o ./src/failtest/const_qualified_transpose_method_retval.o ./src/failtest/cwiseunaryview_nonconst_ctor_on_const_xpr.o ./src/failtest/cwiseunaryview_on_const_type_actually_const.o ./src/failtest/diagonal_nonconst_ctor_on_const_xpr.o ./src/failtest/diagonal_on_const_type_actually_const.o ./src/failtest/eigensolver_cplx.o ./src/failtest/eigensolver_int.o ./src/failtest/failtest_sanity_check.o ./src/failtest/fullpivlu_int.o ./src/failtest/fullpivqr_int.o ./src/failtest/jacobisvd_int.o ./src/failtest/ldlt_int.o ./src/failtest/llt_int.o ./src/failtest/map_nonconst_ctor_on_const_ptr_0.o ./src/failtest/map_nonconst_ctor_on_const_ptr_1.o ./src/failtest/map_nonconst_ctor_on_const_ptr_2.o ./src/failtest/map_nonconst_ctor_on_const_ptr_3.o ./src/failtest/map_nonconst_ctor_on_const_ptr_4.o ./src/failtest/map_on_const_type_actually_const_0.o ./src/failtest/map_on_const_type_actually_const_1.o ./src/failtest/partialpivlu_int.o ./src/failtest/qr_int.o ./src/failtest/ref_1.o ./src/failtest/ref_2.o ./src/failtest/ref_3.o ./src/failtest/ref_4.o ./src/failtest/ref_5.o ./src/failtest/selfadjointview_nonconst_ctor_on_const_xpr.o ./src/failtest/selfadjointview_on_const_type_actually_const.o ./src/failtest/sparse_ref_1.o ./src/failtest/sparse_ref_2.o ./src/failtest/sparse_ref_3.o ./src/failtest/sparse_ref_4.o ./src/failtest/sparse_ref_5.o ./src/failtest/sparse_storage_mismatch.o ./src/failtest/swap_1.o ./src/failtest/swap_2.o ./src/failtest/ternary_1.o ./src/failtest/ternary_2.o ./src/failtest/transpose_nonconst_ctor_on_const_xpr.o ./src/failtest/transpose_on_const_type_actually_const.o ./src/failtest/triangularview_nonconst_ctor_on_const_xpr.o ./src/failtest/triangularview_on_const_type_actually_const.o  ./src/doc/special_examples/Tutorial_sparse_example.o ./src/doc/special_examples/Tutorial_sparse_example_details.o ./src/doc/special_examples/random_cpp11.o  ./src/doc/snippets/AngleAxis_mimic_euler.o ./src/doc/snippets/BiCGSTAB_simple.o ./src/doc/snippets/BiCGSTAB_step_by_step.o ./src/doc/snippets/ColPivHouseholderQR_solve.o ./src/doc/snippets/ComplexEigenSolver_compute.o ./src/doc/snippets/ComplexEigenSolver_eigenvalues.o ./src/doc/snippets/ComplexEigenSolver_eigenvectors.o ./src/doc/snippets/ComplexSchur_compute.o ./src/doc/snippets/ComplexSchur_matrixT.o ./src/doc/snippets/ComplexSchur_matrixU.o ./src/doc/snippets/Cwise_abs.o ./src/doc/snippets/Cwise_abs2.o ./src/doc/snippets/Cwise_acos.o ./src/doc/snippets/Cwise_arg.o ./src/doc/snippets/Cwise_array_power_array.o ./src/doc/snippets/Cwise_asin.o ./src/doc/snippets/Cwise_atan.o ./src/doc/snippets/Cwise_boolean_and.o ./src/doc/snippets/Cwise_boolean_not.o ./src/doc/snippets/Cwise_boolean_or.o ./src/doc/snippets/Cwise_boolean_xor.o ./src/doc/snippets/Cwise_ceil.o ./src/doc/snippets/Cwise_cos.o ./src/doc/snippets/Cwise_cosh.o ./src/doc/snippets/Cwise_cube.o ./src/doc/snippets/Cwise_equal_equal.o ./src/doc/snippets/Cwise_exp.o ./src/doc/snippets/Cwise_floor.o ./src/doc/snippets/Cwise_greater.o ./src/doc/snippets/Cwise_greater_equal.o ./src/doc/snippets/Cwise_inverse.o ./src/doc/snippets/Cwise_isFinite.o ./src/doc/snippets/Cwise_isInf.o ./src/doc/snippets/Cwise_isNaN.o ./src/doc/snippets/Cwise_less.o ./src/doc/snippets/Cwise_less_equal.o ./src/doc/snippets/Cwise_log.o ./src/doc/snippets/Cwise_log10.o ./src/doc/snippets/Cwise_max.o ./src/doc/snippets/Cwise_min.o ./src/doc/snippets/Cwise_minus.o ./src/doc/snippets/Cwise_minus_equal.o ./src/doc/snippets/Cwise_not_equal.o ./src/doc/snippets/Cwise_plus.o ./src/doc/snippets/Cwise_plus_equal.o ./src/doc/snippets/Cwise_pow.o ./src/doc/snippets/Cwise_product.o ./src/doc/snippets/Cwise_quotient.o ./src/doc/snippets/Cwise_round.o ./src/doc/snippets/Cwise_scalar_power_array.o ./src/doc/snippets/Cwise_sign.o ./src/doc/snippets/Cwise_sin.o ./src/doc/snippets/Cwise_sinh.o ./src/doc/snippets/Cwise_slash_equal.o ./src/doc/snippets/Cwise_sqrt.o ./src/doc/snippets/Cwise_square.o ./src/doc/snippets/Cwise_tan.o ./src/doc/snippets/Cwise_tanh.o ./src/doc/snippets/Cwise_times_equal.o ./src/doc/snippets/DenseBase_LinSpaced.o ./src/doc/snippets/DenseBase_LinSpacedInt.o ./src/doc/snippets/DenseBase_LinSpaced_seq.o ./src/doc/snippets/DenseBase_setLinSpaced.o ./src/doc/snippets/DirectionWise_hnormalized.o ./src/doc/snippets/DirectionWise_replicate.o ./src/doc/snippets/DirectionWise_replicate_int.o ./src/doc/snippets/EigenSolver_EigenSolver_MatrixType.o ./src/doc/snippets/EigenSolver_compute.o ./src/doc/snippets/EigenSolver_eigenvalues.o ./src/doc/snippets/EigenSolver_eigenvectors.o ./src/doc/snippets/EigenSolver_pseudoEigenvectors.o ./src/doc/snippets/FullPivHouseholderQR_solve.o ./src/doc/snippets/FullPivLU_image.o ./src/doc/snippets/FullPivLU_kernel.o ./src/doc/snippets/FullPivLU_solve.o ./src/doc/snippets/GeneralizedEigenSolver.o ./src/doc/snippets/HessenbergDecomposition_compute.o ./src/doc/snippets/HessenbergDecomposition_matrixH.o ./src/doc/snippets/HessenbergDecomposition_packedMatrix.o ./src/doc/snippets/HouseholderQR_householderQ.o ./src/doc/snippets/HouseholderQR_solve.o ./src/doc/snippets/HouseholderSequence_HouseholderSequence.o ./src/doc/snippets/IOFormat.o ./src/doc/snippets/JacobiSVD_basic.o ./src/doc/snippets/Jacobi_makeGivens.o ./src/doc/snippets/Jacobi_makeJacobi.o ./src/doc/snippets/LLT_example.o ./src/doc/snippets/LLT_solve.o ./src/doc/snippets/LeastSquaresNormalEquations.o ./src/doc/snippets/LeastSquaresQR.o ./src/doc/snippets/Map_general_stride.o ./src/doc/snippets/Map_inner_stride.o ./src/doc/snippets/Map_outer_stride.o ./src/doc/snippets/Map_placement_new.o ./src/doc/snippets/Map_simple.o ./src/doc/snippets/MatrixBase_adjoint.o ./src/doc/snippets/MatrixBase_all.o ./src/doc/snippets/MatrixBase_applyOnTheLeft.o ./src/doc/snippets/MatrixBase_applyOnTheRight.o ./src/doc/snippets/MatrixBase_array.o ./src/doc/snippets/MatrixBase_array_const.o ./src/doc/snippets/MatrixBase_asDiagonal.o ./src/doc/snippets/MatrixBase_block_int_int.o ./src/doc/snippets/MatrixBase_block_int_int_int_int.o ./src/doc/snippets/MatrixBase_bottomLeftCorner_int_int.o ./src/doc/snippets/MatrixBase_bottomRightCorner_int_int.o ./src/doc/snippets/MatrixBase_bottomRows_int.o ./src/doc/snippets/MatrixBase_cast.o ./src/doc/snippets/MatrixBase_col.o ./src/doc/snippets/MatrixBase_colwise.o ./src/doc/snippets/MatrixBase_computeInverseAndDetWithCheck.o ./src/doc/snippets/MatrixBase_computeInverseWithCheck.o ./src/doc/snippets/MatrixBase_cwiseAbs.o ./src/doc/snippets/MatrixBase_cwiseAbs2.o ./src/doc/snippets/MatrixBase_cwiseEqual.o ./src/doc/snippets/MatrixBase_cwiseInverse.o ./src/doc/snippets/MatrixBase_cwiseMax.o ./src/doc/snippets/MatrixBase_cwiseMin.o ./src/doc/snippets/MatrixBase_cwiseNotEqual.o ./src/doc/snippets/MatrixBase_cwiseProduct.o ./src/doc/snippets/MatrixBase_cwiseQuotient.o ./src/doc/snippets/MatrixBase_cwiseSign.o ./src/doc/snippets/MatrixBase_cwiseSqrt.o ./src/doc/snippets/MatrixBase_diagonal.o ./src/doc/snippets/MatrixBase_diagonal_int.o ./src/doc/snippets/MatrixBase_diagonal_template_int.o ./src/doc/snippets/MatrixBase_eigenvalues.o ./src/doc/snippets/MatrixBase_end_int.o ./src/doc/snippets/MatrixBase_eval.o ./src/doc/snippets/MatrixBase_fixedBlock_int_int.o ./src/doc/snippets/MatrixBase_hnormalized.o ./src/doc/snippets/MatrixBase_homogeneous.o ./src/doc/snippets/MatrixBase_identity.o ./src/doc/snippets/MatrixBase_identity_int_int.o ./src/doc/snippets/MatrixBase_inverse.o ./src/doc/snippets/MatrixBase_isDiagonal.o ./src/doc/snippets/MatrixBase_isIdentity.o ./src/doc/snippets/MatrixBase_isOnes.o ./src/doc/snippets/MatrixBase_isOrthogonal.o ./src/doc/snippets/MatrixBase_isUnitary.o ./src/doc/snippets/MatrixBase_isZero.o ./src/doc/snippets/MatrixBase_leftCols_int.o ./src/doc/snippets/MatrixBase_noalias.o ./src/doc/snippets/MatrixBase_ones.o ./src/doc/snippets/MatrixBase_ones_int.o ./src/doc/snippets/MatrixBase_ones_int_int.o ./src/doc/snippets/MatrixBase_operatorNorm.o ./src/doc/snippets/MatrixBase_prod.o ./src/doc/snippets/MatrixBase_random.o ./src/doc/snippets/MatrixBase_random_int.o ./src/doc/snippets/MatrixBase_random_int_int.o ./src/doc/snippets/MatrixBase_replicate.o ./src/doc/snippets/MatrixBase_replicate_int_int.o ./src/doc/snippets/MatrixBase_reverse.o ./src/doc/snippets/MatrixBase_rightCols_int.o ./src/doc/snippets/MatrixBase_row.o ./src/doc/snippets/MatrixBase_rowwise.o ./src/doc/snippets/MatrixBase_segment_int_int.o ./src/doc/snippets/MatrixBase_select.o ./src/doc/snippets/MatrixBase_selfadjointView.o ./src/doc/snippets/MatrixBase_set.o ./src/doc/snippets/MatrixBase_setIdentity.o ./src/doc/snippets/MatrixBase_setOnes.o ./src/doc/snippets/MatrixBase_setRandom.o ./src/doc/snippets/MatrixBase_setZero.o ./src/doc/snippets/MatrixBase_start_int.o ./src/doc/snippets/MatrixBase_template_int_bottomRows.o ./src/doc/snippets/MatrixBase_template_int_end.o ./src/doc/snippets/MatrixBase_template_int_int_block_int_int_int_int.o ./src/doc/snippets/MatrixBase_template_int_int_bottomLeftCorner.o ./src/doc/snippets/MatrixBase_template_int_int_bottomLeftCorner_int_int.o ./src/doc/snippets/MatrixBase_template_int_int_bottomRightCorner.o ./src/doc/snippets/MatrixBase_template_int_int_bottomRightCorner_int_int.o ./src/doc/snippets/MatrixBase_template_int_int_topLeftCorner.o ./src/doc/snippets/MatrixBase_template_int_int_topLeftCorner_int_int.o ./src/doc/snippets/MatrixBase_template_int_int_topRightCorner.o ./src/doc/snippets/MatrixBase_template_int_int_topRightCorner_int_int.o ./src/doc/snippets/MatrixBase_template_int_leftCols.o ./src/doc/snippets/MatrixBase_template_int_rightCols.o ./src/doc/snippets/MatrixBase_template_int_segment.o ./src/doc/snippets/MatrixBase_template_int_start.o ./src/doc/snippets/MatrixBase_template_int_topRows.o ./src/doc/snippets/MatrixBase_topLeftCorner_int_int.o ./src/doc/snippets/MatrixBase_topRightCorner_int_int.o ./src/doc/snippets/MatrixBase_topRows_int.o ./src/doc/snippets/MatrixBase_transpose.o ./src/doc/snippets/MatrixBase_triangularView.o ./src/doc/snippets/MatrixBase_zero.o ./src/doc/snippets/MatrixBase_zero_int.o ./src/doc/snippets/MatrixBase_zero_int_int.o ./src/doc/snippets/Matrix_Map_stride.o ./src/doc/snippets/Matrix_resize_NoChange_int.o ./src/doc/snippets/Matrix_resize_int.o ./src/doc/snippets/Matrix_resize_int_NoChange.o ./src/doc/snippets/Matrix_resize_int_int.o ./src/doc/snippets/Matrix_setConstant_int.o ./src/doc/snippets/Matrix_setConstant_int_int.o ./src/doc/snippets/Matrix_setIdentity_int_int.o ./src/doc/snippets/Matrix_setOnes_int.o ./src/doc/snippets/Matrix_setOnes_int_int.o ./src/doc/snippets/Matrix_setRandom_int.o ./src/doc/snippets/Matrix_setRandom_int_int.o ./src/doc/snippets/Matrix_setZero_int.o ./src/doc/snippets/Matrix_setZero_int_int.o ./src/doc/snippets/PartialPivLU_solve.o ./src/doc/snippets/PartialRedux_count.o ./src/doc/snippets/PartialRedux_maxCoeff.o ./src/doc/snippets/PartialRedux_minCoeff.o ./src/doc/snippets/PartialRedux_norm.o ./src/doc/snippets/PartialRedux_prod.o ./src/doc/snippets/PartialRedux_squaredNorm.o ./src/doc/snippets/PartialRedux_sum.o ./src/doc/snippets/RealQZ_compute.o ./src/doc/snippets/RealSchur_RealSchur_MatrixType.o ./src/doc/snippets/RealSchur_compute.o ./src/doc/snippets/SelfAdjointEigenSolver_SelfAdjointEigenSolver.o ./src/doc/snippets/SelfAdjointEigenSolver_SelfAdjointEigenSolver_MatrixType.o ./src/doc/snippets/SelfAdjointEigenSolver_SelfAdjointEigenSolver_MatrixType2.o ./src/doc/snippets/SelfAdjointEigenSolver_compute_MatrixType.o ./src/doc/snippets/SelfAdjointEigenSolver_compute_MatrixType2.o ./src/doc/snippets/SelfAdjointEigenSolver_eigenvalues.o ./src/doc/snippets/SelfAdjointEigenSolver_eigenvectors.o ./src/doc/snippets/SelfAdjointEigenSolver_operatorInverseSqrt.o ./src/doc/snippets/SelfAdjointEigenSolver_operatorSqrt.o ./src/doc/snippets/SelfAdjointView_eigenvalues.o ./src/doc/snippets/SelfAdjointView_operatorNorm.o ./src/doc/snippets/SparseMatrix_coeffs.o ./src/doc/snippets/TopicAliasing_block.o ./src/doc/snippets/TopicAliasing_block_correct.o ./src/doc/snippets/TopicAliasing_cwise.o ./src/doc/snippets/TopicAliasing_mult1.o ./src/doc/snippets/TopicAliasing_mult2.o ./src/doc/snippets/TopicAliasing_mult3.o ./src/doc/snippets/TopicAliasing_mult4.o ./src/doc/snippets/TopicAliasing_mult5.o ./src/doc/snippets/TopicStorageOrders_example.o ./src/doc/snippets/Triangular_solve.o ./src/doc/snippets/Tridiagonalization_Tridiagonalization_MatrixType.o ./src/doc/snippets/Tridiagonalization_compute.o ./src/doc/snippets/Tridiagonalization_decomposeInPlace.o ./src/doc/snippets/Tridiagonalization_diagonal.o ./src/doc/snippets/Tridiagonalization_householderCoefficients.o ./src/doc/snippets/Tridiagonalization_packedMatrix.o ./src/doc/snippets/Tutorial_AdvancedInitialization_Block.o ./src/doc/snippets/Tutorial_AdvancedInitialization_CommaTemporary.o ./src/doc/snippets/Tutorial_AdvancedInitialization_Join.o ./src/doc/snippets/Tutorial_AdvancedInitialization_LinSpaced.o ./src/doc/snippets/Tutorial_AdvancedInitialization_ThreeWays.o ./src/doc/snippets/Tutorial_AdvancedInitialization_Zero.o ./src/doc/snippets/Tutorial_Map_rowmajor.o ./src/doc/snippets/Tutorial_Map_using.o ./src/doc/snippets/Tutorial_ReshapeMat2Mat.o ./src/doc/snippets/Tutorial_ReshapeMat2Vec.o ./src/doc/snippets/Tutorial_SlicingCol.o ./src/doc/snippets/Tutorial_SlicingVec.o ./src/doc/snippets/Tutorial_commainit_01.o ./src/doc/snippets/Tutorial_commainit_01b.o ./src/doc/snippets/Tutorial_commainit_02.o ./src/doc/snippets/Tutorial_solve_matrix_inverse.o ./src/doc/snippets/Tutorial_solve_multiple_rhs.o ./src/doc/snippets/Tutorial_solve_reuse_decomposition.o ./src/doc/snippets/Tutorial_solve_singular.o ./src/doc/snippets/Tutorial_solve_triangular.o ./src/doc/snippets/Tutorial_solve_triangular_inplace.o ./src/doc/snippets/VectorwiseOp_homogeneous.o ./src/doc/snippets/Vectorwise_reverse.o ./src/doc/snippets/class_FullPivLU.o ./src/doc/snippets/tut_arithmetic_redux_minmax.o ./src/doc/snippets/tut_arithmetic_transpose_aliasing.o ./src/doc/snippets/tut_arithmetic_transpose_conjugate.o ./src/doc/snippets/tut_arithmetic_transpose_inplace.o ./src/doc/snippets/tut_matrix_assignment_resizing.o  ./src/doc/examples/CustomizingEigen_Inheritance.o ./src/doc/examples/Cwise_erf.o ./src/doc/examples/Cwise_erfc.o ./src/doc/examples/Cwise_lgamma.o ./src/doc/examples/DenseBase_middleCols_int.o ./src/doc/examples/DenseBase_middleRows_int.o ./src/doc/examples/DenseBase_template_int_middleCols.o ./src/doc/examples/DenseBase_template_int_middleRows.o ./src/doc/examples/QuickStart_example.o ./src/doc/examples/QuickStart_example2_dynamic.o ./src/doc/examples/QuickStart_example2_fixed.o ./src/doc/examples/TemplateKeyword_flexible.o ./src/doc/examples/TemplateKeyword_simple.o ./src/doc/examples/TutorialInplaceLU.o ./src/doc/examples/TutorialLinAlgComputeTwice.o ./src/doc/examples/TutorialLinAlgExComputeSolveError.o ./src/doc/examples/TutorialLinAlgExSolveColPivHouseholderQR.o ./src/doc/examples/TutorialLinAlgExSolveLDLT.o ./src/doc/examples/TutorialLinAlgInverseDeterminant.o ./src/doc/examples/TutorialLinAlgRankRevealing.o ./src/doc/examples/TutorialLinAlgSVDSolve.o ./src/doc/examples/TutorialLinAlgSelfAdjointEigenSolver.o ./src/doc/examples/TutorialLinAlgSetThreshold.o ./src/doc/examples/Tutorial_ArrayClass_accessors.o ./src/doc/examples/Tutorial_ArrayClass_addition.o ./src/doc/examples/Tutorial_ArrayClass_cwise_other.o ./src/doc/examples/Tutorial_ArrayClass_interop.o ./src/doc/examples/Tutorial_ArrayClass_interop_matrix.o ./src/doc/examples/Tutorial_ArrayClass_mult.o ./src/doc/examples/Tutorial_BlockOperations_block_assignment.o ./src/doc/examples/Tutorial_BlockOperations_colrow.o ./src/doc/examples/Tutorial_BlockOperations_corner.o ./src/doc/examples/Tutorial_BlockOperations_print_block.o ./src/doc/examples/Tutorial_BlockOperations_vector.o ./src/doc/examples/Tutorial_PartialLU_solve.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_1nn.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple_rowwise.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_colwise.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_maxnorm.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_bool.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_norm.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_operatornorm.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_rowwise.o ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_visitors.o ./src/doc/examples/Tutorial_simple_example_dynamic_size.o ./src/doc/examples/Tutorial_simple_example_fixed_size.o ./src/doc/examples/class_Block.o ./src/doc/examples/class_CwiseBinaryOp.o ./src/doc/examples/class_CwiseUnaryOp.o ./src/doc/examples/class_CwiseUnaryOp_ptrfun.o ./src/doc/examples/class_FixedBlock.o ./src/doc/examples/class_FixedVectorBlock.o ./src/doc/examples/class_VectorBlock.o ./src/doc/examples/function_taking_eigenbase.o ./src/doc/examples/function_taking_ref.o ./src/doc/examples/make_circulant.o ./src/doc/examples/make_circulant2.o ./src/doc/examples/matrixfree_cg.o ./src/doc/examples/nullary_indexing.o ./src/doc/examples/tut_arithmetic_add_sub.o ./src/doc/examples/tut_arithmetic_dot_cross.o ./src/doc/examples/tut_arithmetic_matrix_mul.o ./src/doc/examples/tut_arithmetic_redux_basic.o ./src/doc/examples/tut_arithmetic_scalar_mul_div.o ./src/doc/examples/tut_matrix_coefficient_accessors.o ./src/doc/examples/tut_matrix_resize.o ./src/doc/examples/tut_matrix_resize_fixed_size.o  ./src/doc/tutorial.o  ./src/demos/opengl/camera.o ./src/demos/opengl/gpuhelper.o ./src/demos/opengl/icosphere.o ./src/demos/opengl/quaternion_demo.o ./src/demos/opengl/trackball.o  ./src/demos/mix_eigen_and_c/binary_library.o ./src/demos/mix_eigen_and_c/example.o  ./src/demos/mandelbrot/mandelbrot.o  ./src/blas/f2c/chbmv.o ./src/blas/f2c/chpmv.o ./src/blas/f2c/complexdots.o ./src/blas/f2c/ctbmv.o ./src/blas/f2c/d_cnjg.o ./src/blas/f2c/drotm.o ./src/blas/f2c/drotmg.o ./src/blas/f2c/dsbmv.o ./src/blas/f2c/dspmv.o ./src/blas/f2c/dtbmv.o ./src/blas/f2c/lsame.o ./src/blas/f2c/r_cnjg.o ./src/blas/f2c/srotm.o ./src/blas/f2c/srotmg.o ./src/blas/f2c/ssbmv.o ./src/blas/f2c/sspmv.o ./src/blas/f2c/stbmv.o ./src/blas/f2c/zhbmv.o ./src/blas/f2c/zhpmv.o ./src/blas/f2c/ztbmv.o  ./src/blas/complex_double.o ./src/blas/complex_single.o ./src/blas/double.o ./src/blas/single.o ./src/blas/xerbla.o  ./src/bench/tensors/benchmark_main.o ./src/bench/tensors/contraction_benchmarks_cpu.o ./src/bench/tensors/tensor_benchmarks_cpu.o ./src/bench/tensors/tensor_benchmarks_sycl.o  ./src/bench/spbench/sp_solver.o ./src/bench/spbench/spbenchsolver.o ./src/bench/spbench/test_sparseLU.o  ./src/bench/perf_monitoring/gemm/gemm.o ./src/bench/perf_monitoring/gemm/lazy_gemm.o  ./src/bench/btl/libs/ublas/main.o  ./src/bench/btl/libs/tvmet/main.o  ./src/bench/btl/libs/tensors/main_linear.o ./src/bench/btl/libs/tensors/main_matmat.o ./src/bench/btl/libs/tensors/main_vecmat.o  ./src/bench/btl/libs/mtl4/main.o  ./src/bench/btl/libs/gmm/main.o  ./src/bench/btl/libs/eigen3/btl_tiny_eigen3.o ./src/bench/btl/libs/eigen3/main_adv.o ./src/bench/btl/libs/eigen3/main_linear.o ./src/bench/btl/libs/eigen3/main_matmat.o ./src/bench/btl/libs/eigen3/main_vecmat.o  ./src/bench/btl/libs/eigen2/btl_tiny_eigen2.o ./src/bench/btl/libs/eigen2/main_adv.o ./src/bench/btl/libs/eigen2/main_linear.o ./src/bench/btl/libs/eigen2/main_matmat.o ./src/bench/btl/libs/eigen2/main_vecmat.o  ./src/bench/btl/libs/blitz/btl_blitz.o ./src/bench/btl/libs/blitz/btl_tiny_blitz.o  ./src/bench/btl/libs/blaze/main.o  ./src/bench/btl/libs/STL/main.o  ./src/bench/btl/libs/BLAS/main.o  ./src/bench/btl/data/mean.o ./src/bench/btl/data/regularize.o ./src/bench/btl/data/smooth.o  ./src/bench/analyze-blocking-sizes.o ./src/bench/basicbenchmark.o ./src/bench/benchBlasGemm.o ./src/bench/benchCholesky.o ./src/bench/benchEigenSolver.o ./src/bench/benchFFT.o ./src/bench/benchGeometry.o ./src/bench/benchVecAdd.o ./src/bench/bench_gemm.o ./src/bench/bench_norm.o ./src/bench/bench_reverse.o ./src/bench/bench_sum.o ./src/bench/benchmark-blocking-sizes.o ./src/bench/benchmark.o ./src/bench/benchmarkSlice.o ./src/bench/benchmarkX.o ./src/bench/benchmarkXcwise.o ./src/bench/check_cache_queries.o ./src/bench/dense_solvers.o ./src/bench/eig33.o ./src/bench/geometry.o ./src/bench/product_threshold.o ./src/bench/quat_slerp.o ./src/bench/quatmul.o ./src/bench/sparse_cholesky.o ./src/bench/sparse_dense_product.o ./src/bench/sparse_lu.o ./src/bench/sparse_product.o ./src/bench/sparse_randomsetter.o ./src/bench/sparse_setter.o ./src/bench/sparse_transpose.o ./src/bench/sparse_trisolver.o ./src/bench/spmv.o ./src/bench/vdw_new.o  ./src/main.o  ./src/bench/btl/data/mean.d ./src/bench/btl/data/regularize.d ./src/bench/btl/data/smooth.d  ./src/demos/mix_eigen_and_c/example.d  ./src/blas/f2c/chbmv.d ./src/blas/f2c/chpmv.d ./src/blas/f2c/complexdots.d ./src/blas/f2c/ctbmv.d ./src/blas/f2c/d_cnjg.d ./src/blas/f2c/drotm.d ./src/blas/f2c/drotmg.d ./src/blas/f2c/dsbmv.d ./src/blas/f2c/dspmv.d ./src/blas/f2c/dtbmv.d ./src/blas/f2c/lsame.d ./src/blas/f2c/r_cnjg.d ./src/blas/f2c/srotm.d ./src/blas/f2c/srotmg.d ./src/blas/f2c/ssbmv.d ./src/blas/f2c/sspmv.d ./src/blas/f2c/stbmv.d ./src/blas/f2c/zhbmv.d ./src/blas/f2c/zhpmv.d ./src/blas/f2c/ztbmv.d  ./src/test/adjoint.d ./src/test/array.d ./src/test/array_for_matrix.d ./src/test/array_of_string.d ./src/test/array_replicate.d ./src/test/array_reverse.d ./src/test/bandmatrix.d ./src/test/basicstuff.d ./src/test/bdcsvd.d ./src/test/bicgstab.d ./src/test/block.d ./src/test/boostmultiprec.d ./src/test/bug1213.d ./src/test/bug1213_main.d ./src/test/cholesky.d ./src/test/cholmod_support.d ./src/test/commainitializer.d ./src/test/conjugate_gradient.d ./src/test/conservative_resize.d ./src/test/constructor.d ./src/test/corners.d ./src/test/ctorleak.d ./src/test/denseLM.d ./src/test/dense_storage.d ./src/test/determinant.d ./src/test/diagonal.d ./src/test/diagonalmatrices.d ./src/test/dontalign.d ./src/test/dynalloc.d ./src/test/eigen2support.d ./src/test/eigensolver_complex.d ./src/test/eigensolver_generalized_real.d ./src/test/eigensolver_generic.d ./src/test/eigensolver_selfadjoint.d ./src/test/evaluators.d ./src/test/exceptions.d ./src/test/fastmath.d ./src/test/first_aligned.d ./src/test/geo_alignedbox.d ./src/test/geo_eulerangles.d ./src/test/geo_homogeneous.d ./src/test/geo_hyperplane.d ./src/test/geo_orthomethods.d ./src/test/geo_parametrizedline.d ./src/test/geo_quaternion.d ./src/test/geo_transformations.d ./src/test/half_float.d ./src/test/hessenberg.d ./src/test/householder.d ./src/test/incomplete_cholesky.d ./src/test/inplace_decomposition.d ./src/test/integer_types.d ./src/test/inverse.d ./src/test/is_same_dense.d ./src/test/jacobi.d ./src/test/jacobisvd.d ./src/test/linearstructure.d ./src/test/lscg.d ./src/test/lu.d ./src/test/mapped_matrix.d ./src/test/mapstaticmethods.d ./src/test/mapstride.d ./src/test/meta.d ./src/test/metis_support.d ./src/test/miscmatrices.d ./src/test/mixingtypes.d ./src/test/mpl2only.d ./src/test/nesting_ops.d ./src/test/nomalloc.d ./src/test/nullary.d ./src/test/numext.d ./src/test/packetmath.d ./src/test/pardiso_support.d ./src/test/pastix_support.d ./src/test/permutationmatrices.d ./src/test/prec_inverse_4x4.d ./src/test/product_extra.d ./src/test/product_large.d ./src/test/product_mmtr.d ./src/test/product_notemporary.d ./src/test/product_selfadjoint.d ./src/test/product_small.d ./src/test/product_symm.d ./src/test/product_syrk.d ./src/test/product_trmm.d ./src/test/product_trmv.d ./src/test/product_trsolve.d ./src/test/qr.d ./src/test/qr_colpivoting.d ./src/test/qr_fullpivoting.d ./src/test/qtvector.d ./src/test/rand.d ./src/test/real_qz.d ./src/test/redux.d ./src/test/ref.d ./src/test/resize.d ./src/test/rvalue_types.d ./src/test/schur_complex.d ./src/test/schur_real.d ./src/test/selfadjoint.d ./src/test/simplicial_cholesky.d ./src/test/sizeof.d ./src/test/sizeoverflow.d ./src/test/smallvectors.d ./src/test/sparseLM.d ./src/test/sparse_basic.d ./src/test/sparse_block.d ./src/test/sparse_permutations.d ./src/test/sparse_product.d ./src/test/sparse_ref.d ./src/test/sparse_solvers.d ./src/test/sparse_vector.d ./src/test/sparselu.d ./src/test/sparseqr.d ./src/test/special_numbers.d ./src/test/spqr_support.d ./src/test/stable_norm.d ./src/test/stddeque.d ./src/test/stddeque_overload.d ./src/test/stdlist.d ./src/test/stdlist_overload.d ./src/test/stdvector.d ./src/test/stdvector_overload.d ./src/test/superlu_support.d ./src/test/swap.d ./src/test/triangular.d ./src/test/umeyama.d ./src/test/umfpack_support.d ./src/test/unalignedassert.d ./src/test/unalignedcount.d ./src/test/upperbidiagonalization.d ./src/test/vectorization_logic.d ./src/test/vectorwiseop.d ./src/test/visitor.d ./src/test/zerosized.d  ./src/scripts/eigen_gen_credits.d  ./src/lapack/cholesky.d ./src/lapack/complex_double.d ./src/lapack/complex_single.d ./src/lapack/double.d ./src/lapack/eigenvalues.d ./src/lapack/lu.d ./src/lapack/single.d ./src/lapack/svd.d  ./src/failtest/bdcsvd_int.d ./src/failtest/block_nonconst_ctor_on_const_xpr_0.d ./src/failtest/block_nonconst_ctor_on_const_xpr_1.d ./src/failtest/block_nonconst_ctor_on_const_xpr_2.d ./src/failtest/block_on_const_type_actually_const_0.d ./src/failtest/block_on_const_type_actually_const_1.d ./src/failtest/colpivqr_int.d ./src/failtest/const_qualified_block_method_retval_0.d ./src/failtest/const_qualified_block_method_retval_1.d ./src/failtest/const_qualified_diagonal_method_retval.d ./src/failtest/const_qualified_transpose_method_retval.d ./src/failtest/cwiseunaryview_nonconst_ctor_on_const_xpr.d ./src/failtest/cwiseunaryview_on_const_type_actually_const.d ./src/failtest/diagonal_nonconst_ctor_on_const_xpr.d ./src/failtest/diagonal_on_const_type_actually_const.d ./src/failtest/eigensolver_cplx.d ./src/failtest/eigensolver_int.d ./src/failtest/failtest_sanity_check.d ./src/failtest/fullpivlu_int.d ./src/failtest/fullpivqr_int.d ./src/failtest/jacobisvd_int.d ./src/failtest/ldlt_int.d ./src/failtest/llt_int.d ./src/failtest/map_nonconst_ctor_on_const_ptr_0.d ./src/failtest/map_nonconst_ctor_on_const_ptr_1.d ./src/failtest/map_nonconst_ctor_on_const_ptr_2.d ./src/failtest/map_nonconst_ctor_on_const_ptr_3.d ./src/failtest/map_nonconst_ctor_on_const_ptr_4.d ./src/failtest/map_on_const_type_actually_const_0.d ./src/failtest/map_on_const_type_actually_const_1.d ./src/failtest/partialpivlu_int.d ./src/failtest/qr_int.d ./src/failtest/ref_1.d ./src/failtest/ref_2.d ./src/failtest/ref_3.d ./src/failtest/ref_4.d ./src/failtest/ref_5.d ./src/failtest/selfadjointview_nonconst_ctor_on_const_xpr.d ./src/failtest/selfadjointview_on_const_type_actually_const.d ./src/failtest/sparse_ref_1.d ./src/failtest/sparse_ref_2.d ./src/failtest/sparse_ref_3.d ./src/failtest/sparse_ref_4.d ./src/failtest/sparse_ref_5.d ./src/failtest/sparse_storage_mismatch.d ./src/failtest/swap_1.d ./src/failtest/swap_2.d ./src/failtest/ternary_1.d ./src/failtest/ternary_2.d ./src/failtest/transpose_nonconst_ctor_on_const_xpr.d ./src/failtest/transpose_on_const_type_actually_const.d ./src/failtest/triangularview_nonconst_ctor_on_const_xpr.d ./src/failtest/triangularview_on_const_type_actually_const.d  ./src/doc/special_examples/Tutorial_sparse_example.d ./src/doc/special_examples/Tutorial_sparse_example_details.d ./src/doc/special_examples/random_cpp11.d  ./src/doc/snippets/AngleAxis_mimic_euler.d ./src/doc/snippets/BiCGSTAB_simple.d ./src/doc/snippets/BiCGSTAB_step_by_step.d ./src/doc/snippets/ColPivHouseholderQR_solve.d ./src/doc/snippets/ComplexEigenSolver_compute.d ./src/doc/snippets/ComplexEigenSolver_eigenvalues.d ./src/doc/snippets/ComplexEigenSolver_eigenvectors.d ./src/doc/snippets/ComplexSchur_compute.d ./src/doc/snippets/ComplexSchur_matrixT.d ./src/doc/snippets/ComplexSchur_matrixU.d ./src/doc/snippets/Cwise_abs.d ./src/doc/snippets/Cwise_abs2.d ./src/doc/snippets/Cwise_acos.d ./src/doc/snippets/Cwise_arg.d ./src/doc/snippets/Cwise_array_power_array.d ./src/doc/snippets/Cwise_asin.d ./src/doc/snippets/Cwise_atan.d ./src/doc/snippets/Cwise_boolean_and.d ./src/doc/snippets/Cwise_boolean_not.d ./src/doc/snippets/Cwise_boolean_or.d ./src/doc/snippets/Cwise_boolean_xor.d ./src/doc/snippets/Cwise_ceil.d ./src/doc/snippets/Cwise_cos.d ./src/doc/snippets/Cwise_cosh.d ./src/doc/snippets/Cwise_cube.d ./src/doc/snippets/Cwise_equal_equal.d ./src/doc/snippets/Cwise_exp.d ./src/doc/snippets/Cwise_floor.d ./src/doc/snippets/Cwise_greater.d ./src/doc/snippets/Cwise_greater_equal.d ./src/doc/snippets/Cwise_inverse.d ./src/doc/snippets/Cwise_isFinite.d ./src/doc/snippets/Cwise_isInf.d ./src/doc/snippets/Cwise_isNaN.d ./src/doc/snippets/Cwise_less.d ./src/doc/snippets/Cwise_less_equal.d ./src/doc/snippets/Cwise_log.d ./src/doc/snippets/Cwise_log10.d ./src/doc/snippets/Cwise_max.d ./src/doc/snippets/Cwise_min.d ./src/doc/snippets/Cwise_minus.d ./src/doc/snippets/Cwise_minus_equal.d ./src/doc/snippets/Cwise_not_equal.d ./src/doc/snippets/Cwise_plus.d ./src/doc/snippets/Cwise_plus_equal.d ./src/doc/snippets/Cwise_pow.d ./src/doc/snippets/Cwise_product.d ./src/doc/snippets/Cwise_quotient.d ./src/doc/snippets/Cwise_round.d ./src/doc/snippets/Cwise_scalar_power_array.d ./src/doc/snippets/Cwise_sign.d ./src/doc/snippets/Cwise_sin.d ./src/doc/snippets/Cwise_sinh.d ./src/doc/snippets/Cwise_slash_equal.d ./src/doc/snippets/Cwise_sqrt.d ./src/doc/snippets/Cwise_square.d ./src/doc/snippets/Cwise_tan.d ./src/doc/snippets/Cwise_tanh.d ./src/doc/snippets/Cwise_times_equal.d ./src/doc/snippets/DenseBase_LinSpaced.d ./src/doc/snippets/DenseBase_LinSpacedInt.d ./src/doc/snippets/DenseBase_LinSpaced_seq.d ./src/doc/snippets/DenseBase_setLinSpaced.d ./src/doc/snippets/DirectionWise_hnormalized.d ./src/doc/snippets/DirectionWise_replicate.d ./src/doc/snippets/DirectionWise_replicate_int.d ./src/doc/snippets/EigenSolver_EigenSolver_MatrixType.d ./src/doc/snippets/EigenSolver_compute.d ./src/doc/snippets/EigenSolver_eigenvalues.d ./src/doc/snippets/EigenSolver_eigenvectors.d ./src/doc/snippets/EigenSolver_pseudoEigenvectors.d ./src/doc/snippets/FullPivHouseholderQR_solve.d ./src/doc/snippets/FullPivLU_image.d ./src/doc/snippets/FullPivLU_kernel.d ./src/doc/snippets/FullPivLU_solve.d ./src/doc/snippets/GeneralizedEigenSolver.d ./src/doc/snippets/HessenbergDecomposition_compute.d ./src/doc/snippets/HessenbergDecomposition_matrixH.d ./src/doc/snippets/HessenbergDecomposition_packedMatrix.d ./src/doc/snippets/HouseholderQR_householderQ.d ./src/doc/snippets/HouseholderQR_solve.d ./src/doc/snippets/HouseholderSequence_HouseholderSequence.d ./src/doc/snippets/IOFormat.d ./src/doc/snippets/JacobiSVD_basic.d ./src/doc/snippets/Jacobi_makeGivens.d ./src/doc/snippets/Jacobi_makeJacobi.d ./src/doc/snippets/LLT_example.d ./src/doc/snippets/LLT_solve.d ./src/doc/snippets/LeastSquaresNormalEquations.d ./src/doc/snippets/LeastSquaresQR.d ./src/doc/snippets/Map_general_stride.d ./src/doc/snippets/Map_inner_stride.d ./src/doc/snippets/Map_outer_stride.d ./src/doc/snippets/Map_placement_new.d ./src/doc/snippets/Map_simple.d ./src/doc/snippets/MatrixBase_adjoint.d ./src/doc/snippets/MatrixBase_all.d ./src/doc/snippets/MatrixBase_applyOnTheLeft.d ./src/doc/snippets/MatrixBase_applyOnTheRight.d ./src/doc/snippets/MatrixBase_array.d ./src/doc/snippets/MatrixBase_array_const.d ./src/doc/snippets/MatrixBase_asDiagonal.d ./src/doc/snippets/MatrixBase_block_int_int.d ./src/doc/snippets/MatrixBase_block_int_int_int_int.d ./src/doc/snippets/MatrixBase_bottomLeftCorner_int_int.d ./src/doc/snippets/MatrixBase_bottomRightCorner_int_int.d ./src/doc/snippets/MatrixBase_bottomRows_int.d ./src/doc/snippets/MatrixBase_cast.d ./src/doc/snippets/MatrixBase_col.d ./src/doc/snippets/MatrixBase_colwise.d ./src/doc/snippets/MatrixBase_computeInverseAndDetWithCheck.d ./src/doc/snippets/MatrixBase_computeInverseWithCheck.d ./src/doc/snippets/MatrixBase_cwiseAbs.d ./src/doc/snippets/MatrixBase_cwiseAbs2.d ./src/doc/snippets/MatrixBase_cwiseEqual.d ./src/doc/snippets/MatrixBase_cwiseInverse.d ./src/doc/snippets/MatrixBase_cwiseMax.d ./src/doc/snippets/MatrixBase_cwiseMin.d ./src/doc/snippets/MatrixBase_cwiseNotEqual.d ./src/doc/snippets/MatrixBase_cwiseProduct.d ./src/doc/snippets/MatrixBase_cwiseQuotient.d ./src/doc/snippets/MatrixBase_cwiseSign.d ./src/doc/snippets/MatrixBase_cwiseSqrt.d ./src/doc/snippets/MatrixBase_diagonal.d ./src/doc/snippets/MatrixBase_diagonal_int.d ./src/doc/snippets/MatrixBase_diagonal_template_int.d ./src/doc/snippets/MatrixBase_eigenvalues.d ./src/doc/snippets/MatrixBase_end_int.d ./src/doc/snippets/MatrixBase_eval.d ./src/doc/snippets/MatrixBase_fixedBlock_int_int.d ./src/doc/snippets/MatrixBase_hnormalized.d ./src/doc/snippets/MatrixBase_homogeneous.d ./src/doc/snippets/MatrixBase_identity.d ./src/doc/snippets/MatrixBase_identity_int_int.d ./src/doc/snippets/MatrixBase_inverse.d ./src/doc/snippets/MatrixBase_isDiagonal.d ./src/doc/snippets/MatrixBase_isIdentity.d ./src/doc/snippets/MatrixBase_isOnes.d ./src/doc/snippets/MatrixBase_isOrthogonal.d ./src/doc/snippets/MatrixBase_isUnitary.d ./src/doc/snippets/MatrixBase_isZero.d ./src/doc/snippets/MatrixBase_leftCols_int.d ./src/doc/snippets/MatrixBase_noalias.d ./src/doc/snippets/MatrixBase_ones.d ./src/doc/snippets/MatrixBase_ones_int.d ./src/doc/snippets/MatrixBase_ones_int_int.d ./src/doc/snippets/MatrixBase_operatorNorm.d ./src/doc/snippets/MatrixBase_prod.d ./src/doc/snippets/MatrixBase_random.d ./src/doc/snippets/MatrixBase_random_int.d ./src/doc/snippets/MatrixBase_random_int_int.d ./src/doc/snippets/MatrixBase_replicate.d ./src/doc/snippets/MatrixBase_replicate_int_int.d ./src/doc/snippets/MatrixBase_reverse.d ./src/doc/snippets/MatrixBase_rightCols_int.d ./src/doc/snippets/MatrixBase_row.d ./src/doc/snippets/MatrixBase_rowwise.d ./src/doc/snippets/MatrixBase_segment_int_int.d ./src/doc/snippets/MatrixBase_select.d ./src/doc/snippets/MatrixBase_selfadjointView.d ./src/doc/snippets/MatrixBase_set.d ./src/doc/snippets/MatrixBase_setIdentity.d ./src/doc/snippets/MatrixBase_setOnes.d ./src/doc/snippets/MatrixBase_setRandom.d ./src/doc/snippets/MatrixBase_setZero.d ./src/doc/snippets/MatrixBase_start_int.d ./src/doc/snippets/MatrixBase_template_int_bottomRows.d ./src/doc/snippets/MatrixBase_template_int_end.d ./src/doc/snippets/MatrixBase_template_int_int_block_int_int_int_int.d ./src/doc/snippets/MatrixBase_template_int_int_bottomLeftCorner.d ./src/doc/snippets/MatrixBase_template_int_int_bottomLeftCorner_int_int.d ./src/doc/snippets/MatrixBase_template_int_int_bottomRightCorner.d ./src/doc/snippets/MatrixBase_template_int_int_bottomRightCorner_int_int.d ./src/doc/snippets/MatrixBase_template_int_int_topLeftCorner.d ./src/doc/snippets/MatrixBase_template_int_int_topLeftCorner_int_int.d ./src/doc/snippets/MatrixBase_template_int_int_topRightCorner.d ./src/doc/snippets/MatrixBase_template_int_int_topRightCorner_int_int.d ./src/doc/snippets/MatrixBase_template_int_leftCols.d ./src/doc/snippets/MatrixBase_template_int_rightCols.d ./src/doc/snippets/MatrixBase_template_int_segment.d ./src/doc/snippets/MatrixBase_template_int_start.d ./src/doc/snippets/MatrixBase_template_int_topRows.d ./src/doc/snippets/MatrixBase_topLeftCorner_int_int.d ./src/doc/snippets/MatrixBase_topRightCorner_int_int.d ./src/doc/snippets/MatrixBase_topRows_int.d ./src/doc/snippets/MatrixBase_transpose.d ./src/doc/snippets/MatrixBase_triangularView.d ./src/doc/snippets/MatrixBase_zero.d ./src/doc/snippets/MatrixBase_zero_int.d ./src/doc/snippets/MatrixBase_zero_int_int.d ./src/doc/snippets/Matrix_Map_stride.d ./src/doc/snippets/Matrix_resize_NoChange_int.d ./src/doc/snippets/Matrix_resize_int.d ./src/doc/snippets/Matrix_resize_int_NoChange.d ./src/doc/snippets/Matrix_resize_int_int.d ./src/doc/snippets/Matrix_setConstant_int.d ./src/doc/snippets/Matrix_setConstant_int_int.d ./src/doc/snippets/Matrix_setIdentity_int_int.d ./src/doc/snippets/Matrix_setOnes_int.d ./src/doc/snippets/Matrix_setOnes_int_int.d ./src/doc/snippets/Matrix_setRandom_int.d ./src/doc/snippets/Matrix_setRandom_int_int.d ./src/doc/snippets/Matrix_setZero_int.d ./src/doc/snippets/Matrix_setZero_int_int.d ./src/doc/snippets/PartialPivLU_solve.d ./src/doc/snippets/PartialRedux_count.d ./src/doc/snippets/PartialRedux_maxCoeff.d ./src/doc/snippets/PartialRedux_minCoeff.d ./src/doc/snippets/PartialRedux_norm.d ./src/doc/snippets/PartialRedux_prod.d ./src/doc/snippets/PartialRedux_squaredNorm.d ./src/doc/snippets/PartialRedux_sum.d ./src/doc/snippets/RealQZ_compute.d ./src/doc/snippets/RealSchur_RealSchur_MatrixType.d ./src/doc/snippets/RealSchur_compute.d ./src/doc/snippets/SelfAdjointEigenSolver_SelfAdjointEigenSolver.d ./src/doc/snippets/SelfAdjointEigenSolver_SelfAdjointEigenSolver_MatrixType.d ./src/doc/snippets/SelfAdjointEigenSolver_SelfAdjointEigenSolver_MatrixType2.d ./src/doc/snippets/SelfAdjointEigenSolver_compute_MatrixType.d ./src/doc/snippets/SelfAdjointEigenSolver_compute_MatrixType2.d ./src/doc/snippets/SelfAdjointEigenSolver_eigenvalues.d ./src/doc/snippets/SelfAdjointEigenSolver_eigenvectors.d ./src/doc/snippets/SelfAdjointEigenSolver_operatorInverseSqrt.d ./src/doc/snippets/SelfAdjointEigenSolver_operatorSqrt.d ./src/doc/snippets/SelfAdjointView_eigenvalues.d ./src/doc/snippets/SelfAdjointView_operatorNorm.d ./src/doc/snippets/SparseMatrix_coeffs.d ./src/doc/snippets/TopicAliasing_block.d ./src/doc/snippets/TopicAliasing_block_correct.d ./src/doc/snippets/TopicAliasing_cwise.d ./src/doc/snippets/TopicAliasing_mult1.d ./src/doc/snippets/TopicAliasing_mult2.d ./src/doc/snippets/TopicAliasing_mult3.d ./src/doc/snippets/TopicAliasing_mult4.d ./src/doc/snippets/TopicAliasing_mult5.d ./src/doc/snippets/TopicStorageOrders_example.d ./src/doc/snippets/Triangular_solve.d ./src/doc/snippets/Tridiagonalization_Tridiagonalization_MatrixType.d ./src/doc/snippets/Tridiagonalization_compute.d ./src/doc/snippets/Tridiagonalization_decomposeInPlace.d ./src/doc/snippets/Tridiagonalization_diagonal.d ./src/doc/snippets/Tridiagonalization_householderCoefficients.d ./src/doc/snippets/Tridiagonalization_packedMatrix.d ./src/doc/snippets/Tutorial_AdvancedInitialization_Block.d ./src/doc/snippets/Tutorial_AdvancedInitialization_CommaTemporary.d ./src/doc/snippets/Tutorial_AdvancedInitialization_Join.d ./src/doc/snippets/Tutorial_AdvancedInitialization_LinSpaced.d ./src/doc/snippets/Tutorial_AdvancedInitialization_ThreeWays.d ./src/doc/snippets/Tutorial_AdvancedInitialization_Zero.d ./src/doc/snippets/Tutorial_Map_rowmajor.d ./src/doc/snippets/Tutorial_Map_using.d ./src/doc/snippets/Tutorial_ReshapeMat2Mat.d ./src/doc/snippets/Tutorial_ReshapeMat2Vec.d ./src/doc/snippets/Tutorial_SlicingCol.d ./src/doc/snippets/Tutorial_SlicingVec.d ./src/doc/snippets/Tutorial_commainit_01.d ./src/doc/snippets/Tutorial_commainit_01b.d ./src/doc/snippets/Tutorial_commainit_02.d ./src/doc/snippets/Tutorial_solve_matrix_inverse.d ./src/doc/snippets/Tutorial_solve_multiple_rhs.d ./src/doc/snippets/Tutorial_solve_reuse_decomposition.d ./src/doc/snippets/Tutorial_solve_singular.d ./src/doc/snippets/Tutorial_solve_triangular.d ./src/doc/snippets/Tutorial_solve_triangular_inplace.d ./src/doc/snippets/VectorwiseOp_homogeneous.d ./src/doc/snippets/Vectorwise_reverse.d ./src/doc/snippets/class_FullPivLU.d ./src/doc/snippets/tut_arithmetic_redux_minmax.d ./src/doc/snippets/tut_arithmetic_transpose_aliasing.d ./src/doc/snippets/tut_arithmetic_transpose_conjugate.d ./src/doc/snippets/tut_arithmetic_transpose_inplace.d ./src/doc/snippets/tut_matrix_assignment_resizing.d  ./src/doc/examples/CustomizingEigen_Inheritance.d ./src/doc/examples/Cwise_erf.d ./src/doc/examples/Cwise_erfc.d ./src/doc/examples/Cwise_lgamma.d ./src/doc/examples/DenseBase_middleCols_int.d ./src/doc/examples/DenseBase_middleRows_int.d ./src/doc/examples/DenseBase_template_int_middleCols.d ./src/doc/examples/DenseBase_template_int_middleRows.d ./src/doc/examples/QuickStart_example.d ./src/doc/examples/QuickStart_example2_dynamic.d ./src/doc/examples/QuickStart_example2_fixed.d ./src/doc/examples/TemplateKeyword_flexible.d ./src/doc/examples/TemplateKeyword_simple.d ./src/doc/examples/TutorialInplaceLU.d ./src/doc/examples/TutorialLinAlgComputeTwice.d ./src/doc/examples/TutorialLinAlgExComputeSolveError.d ./src/doc/examples/TutorialLinAlgExSolveColPivHouseholderQR.d ./src/doc/examples/TutorialLinAlgExSolveLDLT.d ./src/doc/examples/TutorialLinAlgInverseDeterminant.d ./src/doc/examples/TutorialLinAlgRankRevealing.d ./src/doc/examples/TutorialLinAlgSVDSolve.d ./src/doc/examples/TutorialLinAlgSelfAdjointEigenSolver.d ./src/doc/examples/TutorialLinAlgSetThreshold.d ./src/doc/examples/Tutorial_ArrayClass_accessors.d ./src/doc/examples/Tutorial_ArrayClass_addition.d ./src/doc/examples/Tutorial_ArrayClass_cwise_other.d ./src/doc/examples/Tutorial_ArrayClass_interop.d ./src/doc/examples/Tutorial_ArrayClass_interop_matrix.d ./src/doc/examples/Tutorial_ArrayClass_mult.d ./src/doc/examples/Tutorial_BlockOperations_block_assignment.d ./src/doc/examples/Tutorial_BlockOperations_colrow.d ./src/doc/examples/Tutorial_BlockOperations_corner.d ./src/doc/examples/Tutorial_BlockOperations_print_block.d ./src/doc/examples/Tutorial_BlockOperations_vector.d ./src/doc/examples/Tutorial_PartialLU_solve.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_1nn.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple_rowwise.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_colwise.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_maxnorm.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_bool.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_norm.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_operatornorm.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_rowwise.d ./src/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_visitors.d ./src/doc/examples/Tutorial_simple_example_dynamic_size.d ./src/doc/examples/Tutorial_simple_example_fixed_size.d ./src/doc/examples/class_Block.d ./src/doc/examples/class_CwiseBinaryOp.d ./src/doc/examples/class_CwiseUnaryOp.d ./src/doc/examples/class_CwiseUnaryOp_ptrfun.d ./src/doc/examples/class_FixedBlock.d ./src/doc/examples/class_FixedVectorBlock.d ./src/doc/examples/class_VectorBlock.d ./src/doc/examples/function_taking_eigenbase.d ./src/doc/examples/function_taking_ref.d ./src/doc/examples/make_circulant.d ./src/doc/examples/make_circulant2.d ./src/doc/examples/matrixfree_cg.d ./src/doc/examples/nullary_indexing.d ./src/doc/examples/tut_arithmetic_add_sub.d ./src/doc/examples/tut_arithmetic_dot_cross.d ./src/doc/examples/tut_arithmetic_matrix_mul.d ./src/doc/examples/tut_arithmetic_redux_basic.d ./src/doc/examples/tut_arithmetic_scalar_mul_div.d ./src/doc/examples/tut_matrix_coefficient_accessors.d ./src/doc/examples/tut_matrix_resize.d ./src/doc/examples/tut_matrix_resize_fixed_size.d  ./src/doc/tutorial.d  ./src/demos/opengl/camera.d ./src/demos/opengl/gpuhelper.d ./src/demos/opengl/icosphere.d ./src/demos/opengl/quaternion_demo.d ./src/demos/opengl/trackball.d  ./src/demos/mix_eigen_and_c/binary_library.d  ./src/demos/mandelbrot/mandelbrot.d  ./src/blas/complex_double.d ./src/blas/complex_single.d ./src/blas/double.d ./src/blas/single.d ./src/blas/xerbla.d  ./src/bench/spbench/sp_solver.d ./src/bench/spbench/spbenchsolver.d ./src/bench/spbench/test_sparseLU.d  ./src/bench/perf_monitoring/gemm/gemm.d ./src/bench/perf_monitoring/gemm/lazy_gemm.d  ./src/bench/btl/libs/ublas/main.d  ./src/bench/btl/libs/tvmet/main.d  ./src/bench/btl/libs/tensors/main_linear.d ./src/bench/btl/libs/tensors/main_matmat.d ./src/bench/btl/libs/tensors/main_vecmat.d  ./src/bench/btl/libs/mtl4/main.d  ./src/bench/btl/libs/gmm/main.d  ./src/bench/btl/libs/eigen3/btl_tiny_eigen3.d ./src/bench/btl/libs/eigen3/main_adv.d ./src/bench/btl/libs/eigen3/main_linear.d ./src/bench/btl/libs/eigen3/main_matmat.d ./src/bench/btl/libs/eigen3/main_vecmat.d  ./src/bench/btl/libs/eigen2/btl_tiny_eigen2.d ./src/bench/btl/libs/eigen2/main_adv.d ./src/bench/btl/libs/eigen2/main_linear.d ./src/bench/btl/libs/eigen2/main_matmat.d ./src/bench/btl/libs/eigen2/main_vecmat.d  ./src/bench/btl/libs/blitz/btl_blitz.d ./src/bench/btl/libs/blitz/btl_tiny_blitz.d  ./src/bench/btl/libs/blaze/main.d  ./src/bench/btl/libs/STL/main.d  ./src/bench/btl/libs/BLAS/main.d  ./src/bench/analyze-blocking-sizes.d ./src/bench/basicbenchmark.d ./src/bench/benchBlasGemm.d ./src/bench/benchCholesky.d ./src/bench/benchEigenSolver.d ./src/bench/benchFFT.d ./src/bench/benchGeometry.d ./src/bench/benchVecAdd.d ./src/bench/bench_gemm.d ./src/bench/bench_norm.d ./src/bench/bench_reverse.d ./src/bench/bench_sum.d ./src/bench/benchmark-blocking-sizes.d ./src/bench/benchmark.d ./src/bench/benchmarkSlice.d ./src/bench/benchmarkX.d ./src/bench/benchmarkXcwise.d ./src/bench/check_cache_queries.d ./src/bench/dense_solvers.d ./src/bench/eig33.d ./src/bench/geometry.d ./src/bench/product_threshold.d ./src/bench/quat_slerp.d ./src/bench/quatmul.d ./src/bench/sparse_cholesky.d ./src/bench/sparse_dense_product.d ./src/bench/sparse_lu.d ./src/bench/sparse_product.d ./src/bench/sparse_randomsetter.d ./src/bench/sparse_setter.d ./src/bench/sparse_transpose.d ./src/bench/sparse_trisolver.d ./src/bench/spmv.d ./src/bench/vdw_new.d  compres.elf.size  compres.elf
+ 
+14:00:35 **** Auto Build of configuration Debug for project compres ****
+make all 
+Building file: ../src/unsupported/test/BVH.cpp
+Invoking: ARM v7 Linux g++ compiler
+arm-linux-gnueabihf-g++ -Wall -O0 -g3 -I"/opt/Xilinx/SDK/2017.4/data/embeddedsw/ThirdParty/opencv/aarch32/include" -c -fmessage-length=0 -MT"src/unsupported/test/BVH.o" -MMD -MP -MF"src/unsupported/test/BVH.d" -MT"src/unsupported/test/BVH.o" -o "src/unsupported/test/BVH.o" "../src/unsupported/test/BVH.cpp"
+In file included from ../src/unsupported/test/BVH.cpp:10:0:
+../src/unsupported/test/main.h:305:63: fatal error: Eigen/QR: No such file or directory
+ #include <Eigen/QR> // required for createRandomPIMatrixOfRank
+                                                               ^
+src/unsupported/test/subdir.mk:273: recipe for target 'src/unsupported/test/BVH.o' failed
+compilation terminated.
+make: *** [src/unsupported/test/BVH.o] Error 1
+15:19:14 **** Build of project compres_bsp ****
+make -k all 
+Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_4/src
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_8/src
+make -C ps7_cortexa9_0/libsrc/scugic_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_3/src
+make -C ps7_cortexa9_0/libsrc/sdps_v3_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/spips_v3_0/src
+make -C ps7_cortexa9_0/libsrc/spips_v3_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_5/src
+make -C ps7_cortexa9_0/libsrc/standalone_v6_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/iicps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/iicps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_6/src
+make -C ps7_cortexa9_0/libsrc/emacps_v3_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/tmrctr_v4_4/src
+make -C ps7_cortexa9_0/libsrc/tmrctr_v4_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/uartps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling dmaps
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling ddrps
+Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_4/src
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling qspips
+Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling gpiops
+Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_8/src
+make -C ps7_cortexa9_0/libsrc/scugic_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling scugic
+Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_3/src
+make -C ps7_cortexa9_0/libsrc/sdps_v3_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling sdps
+Running Make libs in ps7_cortexa9_0/libsrc/spips_v3_0/src
+make -C ps7_cortexa9_0/libsrc/spips_v3_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling spips
+Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_5/src
+make -C ps7_cortexa9_0/libsrc/standalone_v6_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling standalone
+Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling cpu_cortexa9
+Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling xadcps
+Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling ttcps
+Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling devcfg
+Running Make libs in ps7_cortexa9_0/libsrc/iicps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/iicps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling iicps
+Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling scuwdt
+Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_6/src
+make -C ps7_cortexa9_0/libsrc/emacps_v3_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling emacps
+Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling usbps
+Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling coresightps_dcc
+Running Make libs in ps7_cortexa9_0/libsrc/tmrctr_v4_4/src
+make -C ps7_cortexa9_0/libsrc/tmrctr_v4_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling tmrctr
+Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_5/src
+make -C ps7_cortexa9_0/libsrc/uartps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling uartps
+Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+Compiling scutimer
+Finished building libraries
+15:19:35 **** Build of configuration Debug for project compres ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.cc
+Invoking: ARM v7 g++ compiler
+arm-none-eabi-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../compres_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cc"
+Finished building: ../src/main.cc
+ 
+Building target: compres.elf
+Invoking: ARM v7 g++ linker
+arm-none-eabi-g++ -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../compres_bsp/ps7_cortexa9_0/lib -o "compres.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,-lstdc++,--end-group
+Finished building target: compres.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size compres.elf  |tee "compres.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19056	   1148	  22576	  42780	   a71c	compres.elf
+Finished building: compres.elf.size
+ 
