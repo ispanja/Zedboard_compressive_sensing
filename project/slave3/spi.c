@@ -1,14 +1,4 @@
-/**
-  ******************************************************************************
-  * 
-  * @file    spi.c
-  * @author  K. Abbassa, T. Kovacevic, D. Perkovic, A. Sedmak
-  * @version V1.0.1
-  * @date    January 2018
-  * @brief   SPI initialisation and Rx/Tx functions
-	
-  ******************************************************************************
-  */
+
 
 #include "spi.h"
 #include <stm32f4xx_spi.h>
