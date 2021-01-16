@@ -1,0 +1,2 @@
+# Zedboard_compressive_sensing
+Compressive sensing implemented on Zedboard and STM discovery board. Vivado design studio is used for block design of Zedboard. It enables SPI communication (.hdf file). Bit file is generated after successful syntesis and implementation. Petalinux is set on Zedboard. BOOT.bin file are executive programs, image.ub is OS image, whereas device tree is Linux filesystem. Linux kernel is set on zedboard. In order to activate SPI, device tree must be modified.  
