@@ -1,5 +1,4 @@
 
-
 #include "spi.h"
 #include <stm32f4xx_spi.h>
 #include "stm32f4xx.h" 
@@ -9,7 +8,7 @@ void spi_init() {
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_SPI1, ENABLE);
 	SPI_InitStruct.SPI_BaudRatePrescaler=SPI_BaudRatePrescaler_2; // lowest value = max spi speed
 	SPI_InitStruct.SPI_Direction=SPI_Direction_2Lines_FullDuplex; // 
-	SPI_InitStruct.SPI_Mode=SPI_Mode_Master; // jer je stm master
+	SPI_InitStruct.SPI_Mode=SPI_Mode_Master; // slave
 	SPI_InitStruct.SPI_DataSize=SPI_DataSize_8b; // ocekujemo uint_8
 	SPI_InitStruct.SPI_FirstBit=SPI_FirstBit_MSB; 
 	SPI_InitStruct.SPI_CPOL=SPI_CPOL_High; // Clock POlarity -
@@ -21,19 +20,19 @@ void spi_init() {
 //Tx SPI param: adress, data
 void SPI_Tx(uint8_t adress, uint8_t data)
 {
-	// posalji adresu
+	// send addres
   GPIO_ResetBits(GPIOE,GPIO_Pin_3);
-  while(!SPI_I2S_GetFlagStatus(SPI1,SPI_I2S_FLAG_TXE)); // dok je nesto drugo u tijeku, cekaj
+  while(!SPI_I2S_GetFlagStatus(SPI1,SPI_I2S_FLAG_TXE)); 
   SPI_I2S_SendData(SPI1,adress);
-  while(!SPI_I2S_GetFlagStatus(SPI1,SPI_I2S_FLAG_RXNE));// sve dok receive buffer nije prazan - jos uvijek se prima
+  while(!SPI_I2S_GetFlagStatus(SPI1,SPI_I2S_FLAG_RXNE));
   SPI_I2S_ReceiveData(SPI1); 
 	
-	// posalji data
+	// send data
   while(!SPI_I2S_GetFlagStatus(SPI1,SPI_I2S_FLAG_TXE));
   SPI_I2S_SendData(SPI1,data);
   while(!SPI_I2S_GetFlagStatus(SPI1,SPI_I2S_FLAG_RXNE));
   SPI_I2S_ReceiveData(SPI1);
-	// chip select akcelerometar
+	// acc
   GPIO_SetBits(GPIOE,GPIO_Pin_3);
   
 }
